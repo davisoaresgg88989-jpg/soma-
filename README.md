@@ -1,2 +1,2 @@
 # soma-
-criei esse site para fazer somas faceis
+criei esse site para fazer soma
